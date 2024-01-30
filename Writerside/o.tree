@@ -7,7 +7,7 @@
                  start-page="oop.md">
 
     <toc-element topic="oop.md">
-        <toc-element topic="The-problem-with-inheritance.md"/>
         <toc-element topic="What-is-OOP.md"/>
+        <toc-element topic="The-problem-with-inheritance.md"/>
     </toc-element>
 </instance-profile>
